@@ -6,28 +6,116 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 15 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
-- [math](#math) (1)
+- [binary search](#binary-search) (1)
+- [bitmasks](#bitmasks) (1)
+- [brute force](#brute-force) (3)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [data structures](#data-structures) (1)
+- [games](#games) (1)
+- [greedy](#greedy) (2)
+- [implementation](#implementation) (8)
+- [math](#math) (3)
+- [number theory](#number-theory) (2)
+- [sortings](#sortings) (1)
+- [strings](#strings) (6)
 
 ---
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1956A | [Nene's Game](https://codeforces.com/contest/1956/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1956/A%20-%20Nene's%20Game/solution.cpp) |
+
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.cpp) |
 
 ### brute force
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
+| 1948A | [Special Characters](https://codeforces.com/contest/1948/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/1948/A%20-%20Special%20Characters/solution.cpp) |
+| 1956A | [Nene's Game](https://codeforces.com/contest/1956/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1956/A%20-%20Nene's%20Game/solution.cpp) |
+| 1968A | [Maximize?](https://codeforces.com/contest/1968/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1968/A%20-%20Maximize%3F/solution.cpp) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1948A | [Special Characters](https://codeforces.com/contest/1948/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/1948/A%20-%20Special%20Characters/solution.cpp) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1956A | [Nene's Game](https://codeforces.com/contest/1956/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1956/A%20-%20Nene's%20Game/solution.cpp) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1956A | [Nene's Game](https://codeforces.com/contest/1956/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1956/A%20-%20Nene's%20Game/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 1956A | [Nene's Game](https://codeforces.com/contest/1956/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1956/A%20-%20Nene's%20Game/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.cpp) |
+| 1950A | [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1950/A%20-%20Stair%2C%20Peak%2C%20or%20Neither%3F/solution.cpp) |
+| 1950B | [Upscaling](https://codeforces.com/contest/1950/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1950/B%20-%20Upscaling/solution.cpp) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
+| 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++20 (GCC 11-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
+| 1955A | [Yogurt Sale](https://codeforces.com/contest/1955/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1955/A%20-%20Yogurt%20Sale/solution.cpp) |
+| 1968A | [Maximize?](https://codeforces.com/contest/1968/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1968/A%20-%20Maximize%3F/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.cpp) |
+| 1968A | [Maximize?](https://codeforces.com/contest/1968/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1968/A%20-%20Maximize%3F/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 
 ---
 
