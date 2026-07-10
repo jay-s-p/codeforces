@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 46 | 14 |
+| 60 | 15 |
 
 ---
 
@@ -14,18 +14,19 @@
 
 - [binary search](#binary-search) (4)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (13)
-- [constructive algorithms](#constructive-algorithms) (7)
+- [brute force](#brute-force) (15)
+- [constructive algorithms](#constructive-algorithms) (11)
 - [data structures](#data-structures) (1)
+- [dp](#dp) (1)
 - [games](#games) (3)
-- [greedy](#greedy) (10)
-- [implementation](#implementation) (24)
-- [math](#math) (19)
-- [number theory](#number-theory) (5)
-- [sortings](#sortings) (4)
+- [greedy](#greedy) (15)
+- [implementation](#implementation) (29)
+- [math](#math) (27)
+- [number theory](#number-theory) (9)
+- [sortings](#sortings) (5)
 - [strings](#strings) (10)
 - [ternary search](#ternary-search) (1)
-- [two pointers](#two-pointers) (2)
+- [two pointers](#two-pointers) (3)
 
 ---
 
@@ -49,7 +50,9 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 25A | [IQ test](https://codeforces.com/contest/25/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/25/A%20-%20IQ%20test/solution.cpp) |
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
+| 1285C | [Fadi and LCM](https://codeforces.com/contest/1285/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/1285/C%20-%20Fadi%20and%20LCM/solution.cpp) |
 | 1948A | [Special Characters](https://codeforces.com/contest/1948/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/1948/A%20-%20Special%20Characters/solution.cpp) |
 | 1956A | [Nene's Game](https://codeforces.com/contest/1956/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1956/A%20-%20Nene's%20Game/solution.cpp) |
 | 1968A | [Maximize?](https://codeforces.com/contest/1968/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1968/A%20-%20Maximize%3F/solution.cpp) |
@@ -66,6 +69,8 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 682A | [Alyona and Numbers](https://codeforces.com/contest/682/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/682/A%20-%20Alyona%20and%20Numbers/solution.cpp) |
+| 1918A | [Brick Wall](https://codeforces.com/contest/1918/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/1918/A%20-%20Brick%20Wall/solution.cpp) |
 | 1948A | [Special Characters](https://codeforces.com/contest/1948/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/1948/A%20-%20Special%20Characters/solution.cpp) |
 | 1994A | [Diverse Game](https://codeforces.com/contest/1994/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1994/A%20-%20Diverse%20Game/solution.cpp) |
 | 1998A | [Find K Distinct Points with Fixed Center](https://codeforces.com/contest/1998/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/1998/A%20-%20Find%20K%20Distinct%20Points%20with%20Fixed%20Center/solution.cpp) |
@@ -73,12 +78,20 @@
 | 2002A | [Distanced Coloring](https://codeforces.com/contest/2002/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2002/A%20-%20Distanced%20Coloring/solution.cpp) |
 | 2002B | [Removals Game](https://codeforces.com/contest/2002/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2002/B%20-%20Removals%20Game/solution.cpp) |
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
+| 2013A | [Zhan's Blender](https://codeforces.com/contest/2013/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2013/A%20-%20Zhan's%20Blender/solution.cpp) |
+| 2013B | [Battle for Survive](https://codeforces.com/contest/2013/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2013/B%20-%20Battle%20for%20Survive/solution.cpp) |
 
 ### data structures
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1956A | [Nene's Game](https://codeforces.com/contest/1956/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1956/A%20-%20Nene's%20Game/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1343C | [Alternating Subsequence](https://codeforces.com/contest/1343/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1343/C%20-%20Alternating%20Subsequence/solution.cpp) |
 
 ### games
 
@@ -92,8 +105,11 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 149A | [Business trip](https://codeforces.com/contest/149/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/149/A%20-%20Business%20trip/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 1335C | [Two Teams Composing](https://codeforces.com/contest/1335/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1335/C%20-%20Two%20Teams%20Composing/solution.cpp) |
+| 1343C | [Alternating Subsequence](https://codeforces.com/contest/1343/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1343/C%20-%20Alternating%20Subsequence/solution.cpp) |
+| 1918A | [Brick Wall](https://codeforces.com/contest/1918/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/1918/A%20-%20Brick%20Wall/solution.cpp) |
 | 1956A | [Nene's Game](https://codeforces.com/contest/1956/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1956/A%20-%20Nene's%20Game/solution.cpp) |
 | 1991A | [Maximize the Last Element](https://codeforces.com/contest/1991/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/1991/A%20-%20Maximize%20the%20Last%20Element/solution.cpp) |
 | 1994A | [Diverse Game](https://codeforces.com/contest/1994/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1994/A%20-%20Diverse%20Game/solution.cpp) |
@@ -102,6 +118,8 @@
 | 1996B | [Scale](https://codeforces.com/contest/1996/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/1996/B%20-%20Scale/solution.cpp) |
 | 2003A | [Turtle and Good Strings](https://codeforces.com/contest/2003/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2003/A%20-%20Turtle%20and%20Good%20Strings/solution.cpp) |
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
+| 2013B | [Battle for Survive](https://codeforces.com/contest/2013/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2013/B%20-%20Battle%20for%20Survive/solution.cpp) |
+| 2014A | [Robin Helps](https://codeforces.com/contest/2014/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2014/A%20-%20Robin%20Helps/solution.cpp) |
 
 ### implementation
 
@@ -110,12 +128,16 @@
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
+| 144A | [Arrival of the General](https://codeforces.com/contest/144/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/144/A%20-%20Arrival%20of%20the%20General/solution.cpp) |
+| 149A | [Business trip](https://codeforces.com/contest/149/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/149/A%20-%20Business%20trip/solution.cpp) |
+| 255A | [Greg's Workout](https://codeforces.com/contest/255/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/255/A%20-%20Greg's%20Workout/solution.cpp) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 451A | [Game With Sticks](https://codeforces.com/contest/451/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/451/A%20-%20Game%20With%20Sticks/solution.cpp) |
 | 1335C | [Two Teams Composing](https://codeforces.com/contest/1335/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1335/C%20-%20Two%20Teams%20Composing/solution.cpp) |
 | 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.cpp) |
+| 1918A | [Brick Wall](https://codeforces.com/contest/1918/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/1918/A%20-%20Brick%20Wall/solution.cpp) |
 | 1950A | [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1950/A%20-%20Stair%2C%20Peak%2C%20or%20Neither%3F/solution.cpp) |
 | 1950B | [Upscaling](https://codeforces.com/contest/1950/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1950/B%20-%20Upscaling/solution.cpp) |
 | 1971A | [My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1971/A%20-%20My%20First%20Sorting%20Problem/solution.cpp) |
@@ -131,6 +153,7 @@
 | 2002A | [Distanced Coloring](https://codeforces.com/contest/2002/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2002/A%20-%20Distanced%20Coloring/solution.cpp) |
 | 2004A | [Closest Point](https://codeforces.com/contest/2004/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2004/A%20-%20Closest%20Point/solution.cpp) |
 | 2009B | [osu!mania](https://codeforces.com/contest/2009/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2009/B%20-%20osu!mania/solution.cpp) |
+| 2014A | [Robin Helps](https://codeforces.com/contest/2014/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2014/A%20-%20Robin%20Helps/solution.cpp) |
 
 ### math
 
@@ -139,8 +162,14 @@
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++20 (GCC 11-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/318/A%20-%20Even%20Odds/solution.cpp) |
+| 682A | [Alyona and Numbers](https://codeforces.com/contest/682/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/682/A%20-%20Alyona%20and%20Numbers/solution.cpp) |
+| 1285C | [Fadi and LCM](https://codeforces.com/contest/1285/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/1285/C%20-%20Fadi%20and%20LCM/solution.cpp) |
+| 1327A | [Sum of Odd Integers](https://codeforces.com/contest/1327/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1327/A%20-%20Sum%20of%20Odd%20Integers/solution.cpp) |
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.cpp) |
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
+| 1549A | [Gregor and Cryptography](https://codeforces.com/contest/1549/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1549/A%20-%20Gregor%20and%20Cryptography/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+| 1918A | [Brick Wall](https://codeforces.com/contest/1918/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/1918/A%20-%20Brick%20Wall/solution.cpp) |
 | 1955A | [Yogurt Sale](https://codeforces.com/contest/1955/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1955/A%20-%20Yogurt%20Sale/solution.cpp) |
 | 1968A | [Maximize?](https://codeforces.com/contest/1968/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1968/A%20-%20Maximize%3F/solution.cpp) |
 | 1995A | [Diagonals](https://codeforces.com/contest/1995/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1995/A%20-%20Diagonals/solution.cpp) |
@@ -154,6 +183,8 @@
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
 | 2008B | [Square or Not](https://codeforces.com/contest/2008/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2008/B%20-%20Square%20or%20Not/solution.cpp) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2009/A%20-%20Minimize!/solution.cpp) |
+| 2013A | [Zhan's Blender](https://codeforces.com/contest/2013/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2013/A%20-%20Zhan's%20Blender/solution.cpp) |
+| 2013B | [Battle for Survive](https://codeforces.com/contest/2013/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2013/B%20-%20Battle%20for%20Survive/solution.cpp) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
 
 ### number theory
@@ -162,6 +193,10 @@
 |---|---------|------------|----------|
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
 | 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [C++20 (GCC 11-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.cpp) |
+| 682A | [Alyona and Numbers](https://codeforces.com/contest/682/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/682/A%20-%20Alyona%20and%20Numbers/solution.cpp) |
+| 1285C | [Fadi and LCM](https://codeforces.com/contest/1285/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/1285/C%20-%20Fadi%20and%20LCM/solution.cpp) |
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
+| 1549A | [Gregor and Cryptography](https://codeforces.com/contest/1549/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1549/A%20-%20Gregor%20and%20Cryptography/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1968A | [Maximize?](https://codeforces.com/contest/1968/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1968/A%20-%20Maximize%3F/solution.cpp) |
 | 1998B | [Minimize Equal Sum Subarrays](https://codeforces.com/contest/1998/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/1998/B%20-%20Minimize%20Equal%20Sum%20Subarrays/solution.cpp) |
@@ -170,6 +205,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 149A | [Business trip](https://codeforces.com/contest/149/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/149/A%20-%20Business%20trip/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 1335C | [Two Teams Composing](https://codeforces.com/contest/1335/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1335/C%20-%20Two%20Teams%20Composing/solution.cpp) |
 | 1971A | [My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1971/A%20-%20My%20First%20Sorting%20Problem/solution.cpp) |
@@ -200,6 +236,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1343C | [Alternating Subsequence](https://codeforces.com/contest/1343/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1343/C%20-%20Alternating%20Subsequence/solution.cpp) |
 | 1995B1 | [Bouquet (Easy Version)](https://codeforces.com/contest/1995/problem/B1) | 1100 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/1995/B1%20-%20Bouquet%20(Easy%20Version)/solution.cpp) |
 | 2000B | [Seating in a Bus](https://codeforces.com/contest/2000/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2000/B%20-%20Seating%20in%20a%20Bus/solution.cpp) |
 
