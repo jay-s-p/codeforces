@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 12 |
+| 16 | 12 |
 
 ---
 
@@ -14,13 +14,13 @@
 
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (3)
+- [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (2)
 - [implementation](#implementation) (8)
-- [math](#math) (3)
+- [math](#math) (4)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (1)
 - [strings](#strings) (6)
@@ -46,6 +46,7 @@
 | 1948A | [Special Characters](https://codeforces.com/contest/1948/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/1948/A%20-%20Special%20Characters/solution.cpp) |
 | 1956A | [Nene's Game](https://codeforces.com/contest/1956/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1956/A%20-%20Nene's%20Game/solution.cpp) |
 | 1968A | [Maximize?](https://codeforces.com/contest/1968/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1968/A%20-%20Maximize%3F/solution.cpp) |
+| 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
 
 ### constructive algorithms
 
@@ -92,6 +93,7 @@
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++20 (GCC 11-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
 | 1955A | [Yogurt Sale](https://codeforces.com/contest/1955/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1955/A%20-%20Yogurt%20Sale/solution.cpp) |
 | 1968A | [Maximize?](https://codeforces.com/contest/1968/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/jay-s-p/codeforces/blob/HEAD/1968/A%20-%20Maximize%3F/solution.cpp) |
+| 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
 
 ### number theory
 
