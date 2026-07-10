@@ -6,27 +6,27 @@
 
 | Total Problems | Topics |
 |---|---|
-| 120 | 17 |
+| 135 | 17 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [binary search](#binary-search) (8)
+- [binary search](#binary-search) (10)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (27)
+- [brute force](#brute-force) (31)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (24)
+- [constructive algorithms](#constructive-algorithms) (30)
 - [data structures](#data-structures) (3)
-- [dp](#dp) (6)
+- [dp](#dp) (7)
 - [games](#games) (5)
-- [geometry](#geometry) (2)
-- [greedy](#greedy) (42)
-- [implementation](#implementation) (50)
-- [math](#math) (64)
-- [number theory](#number-theory) (17)
-- [sortings](#sortings) (12)
-- [strings](#strings) (15)
+- [geometry](#geometry) (3)
+- [greedy](#greedy) (48)
+- [implementation](#implementation) (59)
+- [math](#math) (70)
+- [number theory](#number-theory) (21)
+- [sortings](#sortings) (13)
+- [strings](#strings) (17)
 - [ternary search](#ternary-search) (1)
 - [two pointers](#two-pointers) (5)
 
@@ -44,6 +44,8 @@
 | 2022B | [Kar Salesman](https://codeforces.com/contest/2022/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2022/B%20-%20Kar%20Salesman/solution.cpp) |
 | 2024B | [Buying Lemonade](https://codeforces.com/contest/2024/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2024/B%20-%20Buying%20Lemonade/solution.cpp) |
 | 2025A | [Two Screens](https://codeforces.com/contest/2025/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2025/A%20-%20Two%20Screens/solution.cpp) |
+| 2028B | [Alice's Adventures in Permuting](https://codeforces.com/contest/2028/problem/B) | 1400 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2028/B%20-%20Alice's%20Adventures%20in%20Permuting/solution.cpp) |
+| 2041B | [Bowling Frame](https://codeforces.com/contest/2041/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2041/B%20-%20Bowling%20Frame/solution.cpp) |
 
 ### bitmasks
 
@@ -82,6 +84,10 @@
 | 2020A | [Find Minimum Operations](https://codeforces.com/contest/2020/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2020/A%20-%20Find%20Minimum%20Operations/solution.cpp) |
 | 2028A | [Alice's Adventures in ''Chess''](https://codeforces.com/contest/2028/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2028/A%20-%20Alice's%20Adventures%20in%20''Chess''/solution.cpp) |
 | 2030C | [A TRUE Battle](https://codeforces.com/contest/2030/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2030/C%20-%20A%20TRUE%20Battle/solution.cpp) |
+| 2037B | [Intercepted Inputs](https://codeforces.com/contest/2037/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2037/B%20-%20Intercepted%20Inputs/solution.cpp) |
+| 2041B | [Bowling Frame](https://codeforces.com/contest/2041/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2041/B%20-%20Bowling%20Frame/solution.cpp) |
+| 2048A | [Kevin and Combination Lock](https://codeforces.com/contest/2048/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2048/A%20-%20Kevin%20and%20Combination%20Lock/solution.cpp) |
+| 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
 
 ### combinatorics
@@ -117,8 +123,14 @@
 | 2026A | [Perpendicular Segments](https://codeforces.com/contest/2026/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2026/A%20-%20Perpendicular%20Segments/solution.cpp) |
 | 2030A | [A Gift From Orangutan](https://codeforces.com/contest/2030/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2030/A%20-%20A%20Gift%20From%20Orangutan/solution.cpp) |
 | 2030B | [Minimise Oneness](https://codeforces.com/contest/2030/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2030/B%20-%20Minimise%20Oneness/solution.cpp) |
+| 2031A | [Penchick and Modern Monument](https://codeforces.com/contest/2031/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2031/A%20-%20Penchick%20and%20Modern%20Monument/solution.cpp) |
 | 2033A | [Sakurako and Kosuke](https://codeforces.com/contest/2033/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2033/A%20-%20Sakurako%20and%20Kosuke/solution.cpp) |
 | 2035B | [Everyone Loves Tres](https://codeforces.com/contest/2035/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2035/B%20-%20Everyone%20Loves%20Tres/solution.cpp) |
+| 2037C | [Superultra's Favorite Permutation](https://codeforces.com/contest/2037/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2037/C%20-%20Superultra's%20Favorite%20Permutation/solution.cpp) |
+| 2039A | [Shohag Loves Mod](https://codeforces.com/contest/2039/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2039/A%20-%20Shohag%20Loves%20Mod/solution.cpp) |
+| 2039B | [Shohag Loves Strings](https://codeforces.com/contest/2039/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2039/B%20-%20Shohag%20Loves%20Strings/solution.cpp) |
+| 2048B | [Kevin and Permutation](https://codeforces.com/contest/2048/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2048/B%20-%20Kevin%20and%20Permutation/solution.cpp) |
+| 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 
 ### data structures
 
@@ -138,6 +150,7 @@
 | 1539B | [Love Song](https://codeforces.com/contest/1539/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/1539/B%20-%20Love%20Song/solution.cpp) |
 | 1941C | [Rudolf and the Ugly String](https://codeforces.com/contest/1941/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/1941/C%20-%20Rudolf%20and%20the%20Ugly%20String/solution.cpp) |
 | 2025B | [Binomial Coefficients, Kind Of](https://codeforces.com/contest/2025/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2025/B%20-%20Binomial%20Coefficients%2C%20Kind%20Of/solution.cpp) |
+| 2031A | [Penchick and Modern Monument](https://codeforces.com/contest/2031/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2031/A%20-%20Penchick%20and%20Modern%20Monument/solution.cpp) |
 
 ### games
 
@@ -155,6 +168,7 @@
 |---|---------|------------|----------|
 | 2026A | [Perpendicular Segments](https://codeforces.com/contest/2026/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2026/A%20-%20Perpendicular%20Segments/solution.cpp) |
 | 2027A | [Rectangle Arrangement](https://codeforces.com/contest/2027/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2027/A%20-%20Rectangle%20Arrangement/solution.cpp) |
+| 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.cpp) |
 
 ### greedy
 
@@ -199,9 +213,15 @@
 | 2029A | [Set](https://codeforces.com/contest/2029/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2029/A%20-%20Set/solution.cpp) |
 | 2030A | [A Gift From Orangutan](https://codeforces.com/contest/2030/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2030/A%20-%20A%20Gift%20From%20Orangutan/solution.cpp) |
 | 2030C | [A TRUE Battle](https://codeforces.com/contest/2030/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2030/C%20-%20A%20TRUE%20Battle/solution.cpp) |
+| 2031A | [Penchick and Modern Monument](https://codeforces.com/contest/2031/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2031/A%20-%20Penchick%20and%20Modern%20Monument/solution.cpp) |
 | 2032A | [Circuit](https://codeforces.com/contest/2032/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2032/A%20-%20Circuit/solution.cpp) |
 | 2035B | [Everyone Loves Tres](https://codeforces.com/contest/2035/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2035/B%20-%20Everyone%20Loves%20Tres/solution.cpp) |
 | 2036B | [Startup](https://codeforces.com/contest/2036/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2036/B%20-%20Startup/solution.cpp) |
+| 2037C | [Superultra's Favorite Permutation](https://codeforces.com/contest/2037/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2037/C%20-%20Superultra's%20Favorite%20Permutation/solution.cpp) |
+| 2039B | [Shohag Loves Strings](https://codeforces.com/contest/2039/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2039/B%20-%20Shohag%20Loves%20Strings/solution.cpp) |
+| 2048A | [Kevin and Combination Lock](https://codeforces.com/contest/2048/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2048/A%20-%20Kevin%20and%20Combination%20Lock/solution.cpp) |
+| 2048B | [Kevin and Permutation](https://codeforces.com/contest/2048/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2048/B%20-%20Kevin%20and%20Permutation/solution.cpp) |
+| 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 
 ### implementation
 
@@ -253,10 +273,19 @@
 | 2022A | [Bus to Pénjamo](https://codeforces.com/contest/2022/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2022/A%20-%20Bus%20to%20P%C3%A9njamo/solution.cpp) |
 | 2027A | [Rectangle Arrangement](https://codeforces.com/contest/2027/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2027/A%20-%20Rectangle%20Arrangement/solution.cpp) |
 | 2028A | [Alice's Adventures in ''Chess''](https://codeforces.com/contest/2028/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2028/A%20-%20Alice's%20Adventures%20in%20''Chess''/solution.cpp) |
+| 2028B | [Alice's Adventures in Permuting](https://codeforces.com/contest/2028/problem/B) | 1400 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2028/B%20-%20Alice's%20Adventures%20in%20Permuting/solution.cpp) |
 | 2032A | [Circuit](https://codeforces.com/contest/2032/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2032/A%20-%20Circuit/solution.cpp) |
 | 2033A | [Sakurako and Kosuke](https://codeforces.com/contest/2033/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2033/A%20-%20Sakurako%20and%20Kosuke/solution.cpp) |
 | 2035A | [Sliding](https://codeforces.com/contest/2035/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2035/A%20-%20Sliding/solution.cpp) |
 | 2036A | [Quintomania](https://codeforces.com/contest/2036/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2036/A%20-%20Quintomania/solution.cpp) |
+| 2037A | [Twice](https://codeforces.com/contest/2037/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2037/A%20-%20Twice/solution.cpp) |
+| 2037B | [Intercepted Inputs](https://codeforces.com/contest/2037/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2037/B%20-%20Intercepted%20Inputs/solution.cpp) |
+| 2039B | [Shohag Loves Strings](https://codeforces.com/contest/2039/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2039/B%20-%20Shohag%20Loves%20Strings/solution.cpp) |
+| 2041A | [The Bento Box Adventure](https://codeforces.com/contest/2041/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2041/A%20-%20The%20Bento%20Box%20Adventure/solution.cpp) |
+| 2048A | [Kevin and Combination Lock](https://codeforces.com/contest/2048/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2048/A%20-%20Kevin%20and%20Combination%20Lock/solution.cpp) |
+| 2050A | [Line Breaks](https://codeforces.com/contest/2050/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2050/A%20-%20Line%20Breaks/solution.cpp) |
+| 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
+| 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.cpp) |
 
 ### math
 
@@ -318,13 +347,19 @@
 | 2026A | [Perpendicular Segments](https://codeforces.com/contest/2026/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2026/A%20-%20Perpendicular%20Segments/solution.cpp) |
 | 2027A | [Rectangle Arrangement](https://codeforces.com/contest/2027/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2027/A%20-%20Rectangle%20Arrangement/solution.cpp) |
 | 2028A | [Alice's Adventures in ''Chess''](https://codeforces.com/contest/2028/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2028/A%20-%20Alice's%20Adventures%20in%20''Chess''/solution.cpp) |
+| 2028B | [Alice's Adventures in Permuting](https://codeforces.com/contest/2028/problem/B) | 1400 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2028/B%20-%20Alice's%20Adventures%20in%20Permuting/solution.cpp) |
 | 2029A | [Set](https://codeforces.com/contest/2029/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2029/A%20-%20Set/solution.cpp) |
 | 2030A | [A Gift From Orangutan](https://codeforces.com/contest/2030/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2030/A%20-%20A%20Gift%20From%20Orangutan/solution.cpp) |
 | 2030B | [Minimise Oneness](https://codeforces.com/contest/2030/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2030/B%20-%20Minimise%20Oneness/solution.cpp) |
+| 2031A | [Penchick and Modern Monument](https://codeforces.com/contest/2031/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2031/A%20-%20Penchick%20and%20Modern%20Monument/solution.cpp) |
 | 2032A | [Circuit](https://codeforces.com/contest/2032/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2032/A%20-%20Circuit/solution.cpp) |
 | 2033A | [Sakurako and Kosuke](https://codeforces.com/contest/2033/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2033/A%20-%20Sakurako%20and%20Kosuke/solution.cpp) |
 | 2035A | [Sliding](https://codeforces.com/contest/2035/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2035/A%20-%20Sliding/solution.cpp) |
 | 2035B | [Everyone Loves Tres](https://codeforces.com/contest/2035/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2035/B%20-%20Everyone%20Loves%20Tres/solution.cpp) |
+| 2037C | [Superultra's Favorite Permutation](https://codeforces.com/contest/2037/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2037/C%20-%20Superultra's%20Favorite%20Permutation/solution.cpp) |
+| 2041B | [Bowling Frame](https://codeforces.com/contest/2041/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2041/B%20-%20Bowling%20Frame/solution.cpp) |
+| 2048A | [Kevin and Combination Lock](https://codeforces.com/contest/2048/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2048/A%20-%20Kevin%20and%20Combination%20Lock/solution.cpp) |
+| 2071A | [The Play Never Ends](https://codeforces.com/contest/2071/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2071/A%20-%20The%20Play%20Never%20Ends/solution.cpp) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
 
 ### number theory
@@ -348,6 +383,10 @@
 | 2020A | [Find Minimum Operations](https://codeforces.com/contest/2020/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2020/A%20-%20Find%20Minimum%20Operations/solution.cpp) |
 | 2032A | [Circuit](https://codeforces.com/contest/2032/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2032/A%20-%20Circuit/solution.cpp) |
 | 2035B | [Everyone Loves Tres](https://codeforces.com/contest/2035/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2035/B%20-%20Everyone%20Loves%20Tres/solution.cpp) |
+| 2037C | [Superultra's Favorite Permutation](https://codeforces.com/contest/2037/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2037/C%20-%20Superultra's%20Favorite%20Permutation/solution.cpp) |
+| 2039A | [Shohag Loves Mod](https://codeforces.com/contest/2039/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2039/A%20-%20Shohag%20Loves%20Mod/solution.cpp) |
+| 2048A | [Kevin and Combination Lock](https://codeforces.com/contest/2048/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2048/A%20-%20Kevin%20and%20Combination%20Lock/solution.cpp) |
+| 2071A | [The Play Never Ends](https://codeforces.com/contest/2071/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2071/A%20-%20The%20Play%20Never%20Ends/solution.cpp) |
 
 ### sortings
 
@@ -365,6 +404,7 @@
 | 2024B | [Buying Lemonade](https://codeforces.com/contest/2024/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2024/B%20-%20Buying%20Lemonade/solution.cpp) |
 | 2030A | [A Gift From Orangutan](https://codeforces.com/contest/2030/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2030/A%20-%20A%20Gift%20From%20Orangutan/solution.cpp) |
 | 2036B | [Startup](https://codeforces.com/contest/2036/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2036/B%20-%20Startup/solution.cpp) |
+| 2041A | [The Bento Box Adventure](https://codeforces.com/contest/2041/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2041/A%20-%20The%20Bento%20Box%20Adventure/solution.cpp) |
 
 ### strings
 
@@ -385,6 +425,8 @@
 | 2003A | [Turtle and Good Strings](https://codeforces.com/contest/2003/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2003/A%20-%20Turtle%20and%20Good%20Strings/solution.cpp) |
 | 2008B | [Square or Not](https://codeforces.com/contest/2008/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2008/B%20-%20Square%20or%20Not/solution.cpp) |
 | 2025A | [Two Screens](https://codeforces.com/contest/2025/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2025/A%20-%20Two%20Screens/solution.cpp) |
+| 2039B | [Shohag Loves Strings](https://codeforces.com/contest/2039/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2039/B%20-%20Shohag%20Loves%20Strings/solution.cpp) |
+| 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jay-s-p/codeforces/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 
 ### ternary search
 
